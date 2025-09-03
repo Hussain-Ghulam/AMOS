@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+python-dotenv
+langchain-community
+pymongo
+pygame
+
+
