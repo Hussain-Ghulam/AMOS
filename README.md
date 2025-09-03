@@ -18,11 +18,11 @@ Clone the repository:
 
 git clone (https://github.com/Hussain-Ghulam/AMOS).git
 cd amos-health-assistant
+
 Install dependencies:
-
 pip install -r requirements.txt
-Set up environment variables:
 
+Set up environment variables:
 Create a .env file in the root directory and include your OpenAI API key:
 
 OPENAI_API_KEY=your_openai_api_key
