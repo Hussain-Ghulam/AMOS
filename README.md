@@ -1,4 +1,5 @@
-Amos – Your Physical Health Chat Assistant
+I,m Amos – Your Virtual Physical Healthcare Coach!!!
+
 Welcome to Amos, a conversational assistant designed to help users improve their mobility and flexibility. Powered by OpenAI's GPT-4 and built with Streamlit, Amos offers simple, actionable advice and supports active listening for all your physical health-related questions.
 
 
@@ -65,3 +66,5 @@ Pull requests are welcome! Please fork the repository and open an issue to discu
 
 License:
 MIT License
+
+Note: Due to privacy concerns, we have not included the details for MongoDB and the survey form. Please update these sections with your information.
