@@ -7,7 +7,7 @@ import time
 
 
 load_dotenv()
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+OPENAI_API_KEY = 
 
 st.markdown("<h1 style='text-align: center;'>I'm Amos </h1>", unsafe_allow_html=True)
 st.markdown("""
